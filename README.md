@@ -11,8 +11,9 @@ However, when launched in **release mode**, some contents are not showing proper
 
 Attached example screenshots below.
 
-<img src="./README/debugMode.png" width="30%">
-<img src="./README/releaseMode.png" width="30%">
+|                   Debug mode                   |                   Release mode                   |
+| :--------------------------------------------: | :----------------------------------------------: |
+| <img src="./README/debugMode.png" width="50%"> | <img src="./README/releaseMode.png" width="50%"> |
 
 ---
 
