@@ -15,7 +15,7 @@ import './responsive_helper.dart';
 // * To resolve the issue, I add one delay task and let Flutter has enough time to get the device information.
 void main() async {
   /* 
-    * Additional function call to ensure widgets fluttter binding is initialized,
+    * Additional function call to ensure widgets flutter binding is initialized,
     * but the issue still happens if no delay task below.
   */
   WidgetsFlutterBinding.ensureInitialized();
